@@ -68,6 +68,7 @@ header{
     border-radius: 6px;
     box-sizing: border-box; 
     justify-content: space-around;
+    background-image: url(images/car2.jpg);
     margin-left: 50px;
     margin-top: 30px;
 }

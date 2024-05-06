@@ -1,0 +1,131 @@
+*{
+    margin:0;
+    padding: 0;
+}
+img{
+    width: 500px;
+    height: 240px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+header{
+    display: flex;
+    background: #1f2937;
+}
+.header-text{
+    margin: 0 110px;
+}
+.header-link{
+    margin: 0 110px;
+}
+.header-text h3{
+    font-size: 24px;
+    color: #F9FAF8;
+    margin-top: 20px;
+}
+.text{
+    margin-top: 80px;
+}
+.text h4{
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #F9FAF8;
+}
+.text p{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+.btn{
+    font-size: 18px;
+    background: #3882F6;
+    color: #F9FAF8;
+    border-radius: 6px;
+    border: 1px solid #3882F6;
+    margin: 10px auto;
+    padding: 5px 10px;
+    margin-bottom: 80px;
+}
+.header-link ul li{
+    list-style: none;
+    justify-content: space-between;
+    display: inline-block;
+    color: #E5E7EB;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.part h3{
+    font-size: 36px;
+    text-align: center;
+    align-items: center;
+    font-weight: extra-bold;
+    color: #1f2937;
+    margin-top: 20px;
+}
+.box{
+    height: 150px;
+    width: 150px;
+    border: 3px solid #3882F6;
+    border-radius: 6px;
+    box-sizing: border-box; 
+    justify-content: space-around;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.part-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.desc{
+    margin-top: 150px;
+}
+.part{
+    margin-bottom: 150px;
+}
+.quote{
+    background: #E5E7EB;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    font-weight: light;
+    padding: 100px 180px;
+}
+.owner{
+    padding-left: 650px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+}
+.signup{
+    background: #3882F6;
+    display: flex;
+    margin: 50px 150px;
+    justify-content: space-between;
+    padding: 50px 150px;
+    border-radius: 6px;
+}
+.sign span{
+    color: #F9FAF8;
+    font-weight: bold;
+    font-size: 18px;
+}
+.sign p{
+    color: #E5E7EB;
+}
+.btn2{
+    background: #3882F6;
+    border: 2px solid #F9FAF8;
+    border-radius: 6px;
+    color: #F9FAF8;
+    font-size: 18px;
+    padding: 5px 10px;
+}
+footer{
+    background: #1F2937;
+    align-items: center;
+    justify-content: center;
+    color: #E5E7EB;
+    text-align: center;
+    padding: 50px 0;
+}
